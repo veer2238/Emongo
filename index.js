@@ -181,7 +181,7 @@ app.get('/api', (req, res) => {
 
     const updatedData = jsonData.map(item => {
       if (item.img) {
-        item.img = 'http://' + req.get('host') + item.img;
+        item.img = 'https://' + req.get('host') + item.img;
       }
 
       return item;

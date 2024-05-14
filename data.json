@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "title":"MULTIPLE VEGGIES BURGER",
+        "price":250,
+        "img":"/Shopimg/SB1-img-1.jpg"
+      
+    },
+
+    {
+        "id":2,
+        "title":"DOUBLE CHEESE BURGER",
+        "price":300,
+        "img":"/Shopimg/SB2-img-2.jpg"
+      
+    },
+
+    {
+        "id":3,
+        "title":"VEG BURGER",
+        "price":200,
+        "img":"/Shopimg/SB3-img-3.jpg"
+     
+    },
+
+    {
+        "id":4,
+        "title":"SPICY BURGER",
+        "price":350,
+        "img":"/Shopimg/SB5-img-5.jpg"
+     
+    },
+
+    {
+        "id":5,
+        "title":"CAPPUCCINO COFFEE",
+        "price":250,
+        "img":"/Shopimg/SC1-img-1.jpg"
+     
+    },
+
+    {
+        "id":6,
+        "title":"CHOCO-CUP CAKE",
+        "price":270,
+        "img":"/Shopimg/SC2-img-2.jpg"
+     
+    },
+
+    {
+        "id":7,
+        "title":"ESPRESSO COFFEE",
+        "price":300,
+        "img":"/Shopimg/SC3-img-3.jpg"
+     
+    },
+
+    {
+        "id":8,
+        "title":"TURKISH COFFEE",
+        "price":300,
+        "img":"/Shopimg/SC4-img-4.jpg"
+     
+    },
+
+    {
+        "id":9,
+        "title":"COFFEE ICE-CREAM",
+        "price":300,
+        "img":"/Shopimg/SD1-img-1.jpg"
+     
+    },
+
+    {
+        "id":10,
+        "title":"BLUE-BERRY ICE-CREAM",
+        "price":350,
+        "img":"/Shopimg/SD5-img-5.jpg"
+     
+    },
+
+    {
+        "id":11,
+        "title":"FRUIT & ICE-CREAM DESSERT",
+        "price":320,
+        "img":"/Shopimg/SD3-img-3.jpg"
+     
+    },
+
+    {
+        "id":12,
+        "title":"STRAWBERRY CRUNCH DESSERT",
+        "price":380,
+        "img":"/Shopimg/SD7-img-7.jpg"
+     
+    }
+]
+
